@@ -1,3 +1,5 @@
 Controlo de Versões
+<<<<<<< HEAD
+=======
 Git
-OpenUp
+>>>>>>> d3a72d2080b04b9dc00a2a54a3b62a9f520792b2
